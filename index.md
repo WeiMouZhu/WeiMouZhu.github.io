@@ -19,8 +19,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **<font color='red'>[Highlight]</font> I am seeking for a Postdoc position to start in early 2025. Contact me if you have any leads!**
 
 - **Sep 2014 - June 2018 :** Chengdu University of Technology (BS)
-- **Sep 2018 - present :** Institute of Geology and Geophysics, Chinese Academy of Sciences(PhD)
-- **Nov 2023 - NoV 2024 :** University Of Bologna (Visiting PhD student)
+- **Sep 2018 - present :** Institute of Geology and Geophysics, Chinese Academy of Sciences (PhD)
+- **Nov 2023 - NoV 2024 :** University of Bologna (Visiting PhD student)
 
 Expect to graduate in early 2025 and seekining for a Postdoc position after that.
 
