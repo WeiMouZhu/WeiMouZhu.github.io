@@ -6,23 +6,23 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Weimou Zhu (朱威谋)**.
 
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences[IGGCAS](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences. My supervisor is [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao). Currently, I have been awarded a scholarship under China Scholarship Council to pursue study as a visiting PhD student in the Department of Physics and Astronomy "Augusto Righi", University of Bologna, supervised by [Prof. Luca De Siena](https://www.unibo.it/sitoweb/luca.desiena2/en).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please get in touch and email me at - *zhuwm[dot]mail[at]iggcas[dot]ac[dot].cn*
 
-<br>**Best wishes for 2024 🎊 Cheers!**
+<br>**Best wishes for the 2024 🎊 Cheers everyone!**
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am seeking for a Postdoc position to start in early 2025. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
+- **Sep 2014 - June 2018 :** Chengdu University of Technology (BS)
+- **Sep 2018 - present :** Institute of Geology and Geophysics, Chinese Academy of Sciences(PhD)
+- **Nov 2023 - NoV 2024 :** University Of Bologna (Visiting PhD student)
 
-Expect to apply for a one-year MPhil program and will graduate in Sep 2025. Looking for PhD position after that.
+Expect to graduate in early 2025 and seekining for a Postdoc position after that.
 
 <br>
 
