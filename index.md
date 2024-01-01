@@ -8,7 +8,7 @@ layout: page
 
 Here is **Weimou Zhu (朱威谋)**.
 
-I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences[IGGCAS](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences. My supervisor is [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao). Currently, I have been awarded a scholarship under China Scholarship Council to pursue study as a visiting PhD student in the Department of Physics and Astronomy "Augusto Righi", University of Bologna, supervised by [Prof. Luca De Siena](https://www.unibo.it/sitoweb/luca.desiena2/en).
+I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences [(IGGCAS)](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences. My supervisor is [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao). Currently, I have been awarded a scholarship under China Scholarship Council to pursue study as a visiting PhD student in the Department of Physics and Astronomy "Augusto Righi", University of Bologna, supervised by [Prof. Luca De Siena](https://www.unibo.it/sitoweb/luca.desiena2/en).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please get in touch and email me at - *zhuwm@mail.iggcas.ac.cn*
 
