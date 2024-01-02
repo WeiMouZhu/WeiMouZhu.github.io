@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://weimouzhu.github.io/WMZ.jpg" class="floatpic" width="360" height="480">
+<img src="https://weimouzhu.github.io/images/../../../images/WMZ.jpg" class="floatpic" width="360" height="480">
 
 Here is **Weimou Zhu (朱威谋)**.
 
