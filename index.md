@@ -1,11 +1,3 @@
-<!--
- * @Author:  WilmerZhu
- * @Email: zhuwm@mail.iggcas.ac.cn
- * @Date: 2024-01-01 21:56:10
- * @LastEditTime: 2024-01-02 22:55:01
- * @FilePath: /WeiMouZhu.github.io/index.md
- * 
--->
 ---
 layout: page
 ---
