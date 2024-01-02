@@ -2,7 +2,7 @@
  * @Author:  WilmerZhu
  * @Email: zhuwm@mail.iggcas.ac.cn
  * @Date: 2024-01-01 21:56:10
- * @LastEditTime: 2024-01-02 22:43:11
+ * @LastEditTime: 2024-01-02 22:55:01
  * @FilePath: /WeiMouZhu.github.io/index.md
  * 
 -->
@@ -16,7 +16,7 @@ layout: page
 
 Here is **Weimou Zhu (朱威谋)**.
 
-I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences [(IGGCAS)](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences. My supervisor is [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao). 
+I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences [(IGGCAS)](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences [(UCAS)](https://www.ucas.ac.cn/), supervised by [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao). 
 
 Currently, I have been awarded a scholarship under China Scholarship Council to pursue study as a visiting PhD student in the Department of Physics and Astronomy "Augusto Righi", University of Bologna, supervised by [Prof. Luca De Siena](https://www.unibo.it/sitoweb/luca.desiena2/en).
 
@@ -55,13 +55,14 @@ My current research focuses on **Machine Learning Multi-scale seismic attenuatio
 ## News and Updates
 
 
-- **Nov 2023:**  Beginning of the 1-year visiting of University of Bologna.
+- **Nov 2023:**  🛫 Beginning of the 1-year visiting in the University of Bologna!
 
-- **March & April 2023:** Reports in Chinese about the research of Lg attenuation of Anatolian Plateau [(IGGCAS website)](https://igg.cas.cn/xwzx/yjcg/202303/t20230329_6720093.html) & [(*SeimicWaves*)
+- **March & April 2023:** 📰 Reports in Chinese about the research of Lg attenuation of Anatolian Plateau [(IGGCAS website)](https://igg.cas.cn/xwzx/yjcg/202303/t20230329_6720093.html) & [(*SeimicWaves*)
 ](https://mp.weixin.qq.com/s/7GpheW4wel2JiFRbS3aX4w)
 
-- **March 2023:** [First paper published in **Geophysical Research Letters**!
+- **March 2023:** 📖 [First paper published in **Geophysical Research Letters**!
   [*High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift*]](https://doi.org/10.1029/2023GL103470)
 
+- **Jan 2023:** *2022-2023 Merit PhD Student of UCAS*!
 
 <br>
