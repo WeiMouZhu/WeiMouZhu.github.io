@@ -1,3 +1,11 @@
+<!--
+ * @Author:  WilmerZhu
+ * @Email: zhuwm@mail.iggcas.ac.cn
+ * @Date: 2024-01-01 21:56:10
+ * @LastEditTime: 2024-01-02 22:43:11
+ * @FilePath: /WeiMouZhu.github.io/index.md
+ * 
+-->
 ---
 layout: page
 ---
@@ -14,46 +22,46 @@ Currently, I have been awarded a scholarship under China Scholarship Council to 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please get in touch and email me at - *zhuwm@mail.iggcas.ac.cn*
 
-<br>**Best wishes for the 2024 🎊
-<br>**Cheers everyone 🎉
+<br>**Best wishes for the 2024 🎊**
+<br>**Cheers everyone 🎉**
 
 ---
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am seeking for a Postdoc position to start in early 2025. Contact me if you have any leads!**
+🔥 **<font color='red'>[Highlight]</font> I am seeking for a Postdoc position to start in early 2025. Contact me if you have any leads!**
 
 - **Sep 2014 - June 2018 :** Chengdu University of Technology (BS)
 - **Sep 2018 - present :** Institute of Geology and Geophysics, Chinese Academy of Sciences (PhD)
-- **Nov 2023 - NoV 2024 :** University of Bologna (Visiting PhD student)
+- **Nov 2023 - Nov 2024 :** University of Bologna (Visiting PhD student for 1 year)
 
 Expect to graduate in early 2025 and seekining for a Postdoc position after that.
 
-<br>
 
 ---
 
 ## Research Interests
 
-- Internet of Everything (IoE)
-- Industrial Automation
-- Network and Cybersecurity
-- Applied Machine Learning
-- [My latest research proposal](https://caihanlin.com/file/proposal-2023.pdf) 🔗
+- Seimic Attenuation Imaging
+- Volcanic Seismology
+- Machine Learning and Deep Learning Applications in Seismology
+- Subduction and Collision Orogeny Processes
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- 🔗
 
-<br>
+My current research focuses on **Machine Learning Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, vocanic activities and colossal earthquakes**. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
 ## News and Updates
 
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department at Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+
+- **Nov 2023:**  Beginning of the 1-year visiting of University of Bologna.
+
+- **March & April 2023:** Reports in Chinese about the research of Lg attenuation of Anatolian Plateau [(IGGCAS website)](https://igg.cas.cn/xwzx/yjcg/202303/t20230329_6720093.html) & [(*SeimicWaves*)
+](https://mp.weixin.qq.com/s/7GpheW4wel2JiFRbS3aX4w)
+
+- **March 2023:** [First paper published in **Geophysical Research Letters**!
+  [*High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift*]](https://doi.org/10.1029/2023GL103470)
+
 
 <br>
