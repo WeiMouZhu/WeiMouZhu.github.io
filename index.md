@@ -40,7 +40,7 @@ Expect to graduate in early 2025 and seekining for a Postdoc position after that
 
 - 🔗
 
-My current research focuses on **Machine Learning Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, vocanic activities and colossal earthquakes**. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on *Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, vocanic activities and colossal earthquakes*.
 
 ---
 
@@ -56,5 +56,3 @@ My current research focuses on **Machine Learning Multi-scale seismic attenuatio
   [*High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift*]](https://doi.org/10.1029/2023GL103470)
 
 - **Jan 2023:** *2022-2023 Merit PhD Student of UCAS*!
-
-<br>
