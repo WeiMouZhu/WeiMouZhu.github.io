@@ -14,7 +14,8 @@ Currently, I have been awarded a scholarship under China Scholarship Council to 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please get in touch and email me at - *zhuwm@mail.iggcas.ac.cn*
 
-<br>**Best wishes for the 2024 🎊 Cheers everyone!**
+<br>**Best wishes for the 2024 🎊 **
+<br>**Cheers everyone 🎉**
 
 ## Academic Background
 
