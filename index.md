@@ -17,6 +17,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>**Best wishes for the 2024 🎊
 <br>**Cheers everyone 🎉
 
+---
 ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am seeking for a Postdoc position to start in early 2025. Contact me if you have any leads!**
@@ -56,5 +57,3 @@ My current research focuses on practical problems that artificial intelligence f
 - **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
 
 <br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m thrilled to share that I have been awarded the AAAI 2024 Undergraduate Scholarship and will be attending the AAAI Conference in Vancouver this coming February.<br><br>I am also looking for PhD to start in 2025 Fall. Contact me if you have any leads! 😁 <a href="https://t.co/GxdTPnCzE6">pic.twitter.com/GxdTPnCzE6</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1738533328490463639?ref_src=twsrc%5Etfw">December 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
