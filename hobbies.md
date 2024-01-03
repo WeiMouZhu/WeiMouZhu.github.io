@@ -23,8 +23,7 @@ title: Hobbies
 ### Luka Dončić
 <img src="/images/Luka-Doncic.jpg">
 
-
-
+---
 ## 👨‍🍳 Cooking 
 
 <br> Born and raised in a family of a restaurant,I have been exposed to cooking since I was a child. I am good at cooking Chinese food, especially Sichuan cuisine. 
