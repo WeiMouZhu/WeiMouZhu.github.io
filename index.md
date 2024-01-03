@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2018 - present :** Institute of Geology and Geophysics, Chinese Academy of Sciences (PhD)
 - **Nov 2023 - Nov 2024 :** University of Bologna (Visiting PhD student for 1 year)
 
-Expect to graduate in early 2025 and seekining for a Postdoc position after that.
+Expect to graduate in early 2025 and seeking for a Postdoc position after that.
 
 
 ---
