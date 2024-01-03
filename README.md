@@ -4,7 +4,7 @@ Here is **Weimou Zhu (Wilmer, 朱威谋)**. Here is my personal website. Welcome
 
 ## Update and News
 
-- **Jan. 2024:** My personal website have been implemented and deployed in [weimouzhu.com](https://weimouzhu.com)
+- **Jan. 2024:** My personal website have been implemented and deployed in [weimouzhu.com](https://www.weimouzhu.com)
 
 
 
