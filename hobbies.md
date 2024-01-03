@@ -7,11 +7,13 @@ title: Hobbies
 # Hobbies
 
 ## 🏀 Basketball
-
+### College Basketball Team in the CDUT
 <img src="/images/Basketball_CDUT.jpeg">
-</div>
+
+### Friends After Playing Basketball in the UCAS
 <img src="/images/Basketball_UCAS.jpeg">
-</div>
+
+### Basketball Game in the IGGCAS
 <img src="/images/Basketball_IGGCAS.JPG">
 
 <br>Basketball assuages my worries, refreshes my body, as well as sport injuries🤕. 
