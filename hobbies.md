@@ -7,17 +7,21 @@ title: Hobbies
 # Hobbies
 
 ## 🏀 Basketball
-### College Basketball Team in the CDUT
+### 2017 College Basketball Team in the CDUT
 <img src="/images/Basketball_CDUT.jpeg">
 
-### Friends After Playing Basketball in the UCAS
+### 2018 Friends After Playing Basketball in the UCAS
 <img src="/images/Basketball_UCAS.jpeg">
 
-### Basketball Game in the IGGCAS
+### 2022 Basketball Game in the IGGCAS
 <img src="/images/Basketball_IGGCAS.JPG">
 
-<br>Basketball assuages my worries, refreshes my body, as well as sport injuries🤕. 
+<br>Basketball assuages my worries, refreshes my body, as well as sport injuries🤕.
+
 <br>I am big fan of the Luka Dončić, the best player of the Dallas Mavericks, NBA.
+
+### Luka Dončić
+<img src="/images/Luka-Doncic.jpg">
 
 ## Cooking 
 
