@@ -8,11 +8,12 @@ title: Hobbies
 
 ## 🏀 Basketball
 
-<div class="third">
 <img src="/images/Basketball_CDUT.jpeg">
-<img src="/images/Basketball_UCAS.jpeg">
-<img src="/images/Basketball_IGGCAS.JPG">
 </div>
+<img src="/images/Basketball_UCAS.jpeg">
+</div>
+<img src="/images/Basketball_IGGCAS.JPG">
+
 <br>Basketball assuages my worries, refreshes my body, as well as sport injuries🤕. 
 <br>I am big fan of the Luka Dončić, the best player of the Dallas Mavericks, NBA.
 
