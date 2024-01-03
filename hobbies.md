@@ -20,7 +20,7 @@ title: Hobbies
 
 <br>I am big fan of the Luka Dončić, the best player of the Dallas Mavericks, NBA.
 
-### Luka Dončić
+### 😀 Luka Dončić
 <img src="/images/Luka-Doncic.jpg">
 
 ---
