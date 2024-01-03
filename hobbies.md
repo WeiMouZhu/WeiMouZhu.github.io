@@ -4,8 +4,6 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
-
 ## 🏀 Basketball
 ### 2017 College Basketball Team in the CDUT
 <img src="/images/Basketball_CDUT.jpeg">
