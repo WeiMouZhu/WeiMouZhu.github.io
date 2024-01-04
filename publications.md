@@ -9,7 +9,7 @@ Lastest Update: 3th Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://cai
 ## Journal Paper
 
 - 🚀 [**Zhu, W.-M.**, Zhao, L.-F., Xie, X.-B., He, X., Zhang, L., & Yao, Z.-X. (2023). High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift. Geophysical Research Letters, 50, e2023GL103470.](https://weimouzhu.github.io/file/GRL_2023_Zhu.pdf) 
-<br>https://doi.org/10.1029/2023GL103470
+[https://doi.org/10.1029/2023GL103470](https://doi.org/10.1029/2023GL103470)
 
   
 

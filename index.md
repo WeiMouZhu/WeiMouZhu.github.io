@@ -52,7 +52,7 @@ My PhD project includes the **Multi-scale seismic attenuation imaging of the Ana
 - **March & April 2023:** 📰 Reports in Chinese about the research of Lg attenuation of Anatolian Plateau [(IGGCAS website)](https://igg.cas.cn/xwzx/yjcg/202303/t20230329_6720093.html) & [(*SeimicWaves*)
 ](https://mp.weixin.qq.com/s/7GpheW4wel2JiFRbS3aX4w)
 
-- **March 2023:** 📖 [First paper published in **Geophysical Research Letters**!
-  [*High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift*]](https://doi.org/10.1029/2023GL103470)
+- **March 2023:** 📖 First paper published in **Geophysical Research Letters**!
+  [*High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift*](https://doi.org/10.1029/2023GL103470)
 
 - **Jan 2023:** *2022-2023 Merit PhD Student of UCAS*!
