@@ -15,11 +15,11 @@ Lastest Update: 5th Jan 2024&nbsp;  中文版本 (Chinese Version)
 
 ## Conference Talks/Posters
 
-- 🥳 [**International Professionals for the Advancement of Chinese Earth Sciences(IPACES) 2023 Annual Meeting**](https://ipaces.org/events/2023-07-02-annual-meeting/) (Poster in Chinese) 2023年2月6日土耳其双震及余震序列Lg波应力降估计
+- 🥳 [**International Professionals for the Advancement of Chinese Earth Sciences (IPACES) 2023 Annual Meeting**](https://ipaces.org/events/2023-07-02-annual-meeting/) (Poster in Chinese) 2023年2月6日土耳其双震及余震序列Lg波应力降估计
 
-- 🥳 **Asia Oceania Geosciences Society(AOGS) 18th Annual Meeting 2021** (Oral, Online) [Crustal Lg-wave Attenuation in the Western Mediterranean Region](https://www.asiaoceania.org/aogs2021/public.asp?page=program_overview.asp), [pdf](https://weimouzhu.github.io/file/Presenter_Schedule_AOGS_2021.pdf)
+- 🥳 **Asia Oceania Geosciences Society (AOGS) 18th Annual Meeting 2021** (Oral, Online) [Crustal Lg-wave Attenuation in the Western Mediterranean Region](https://www.asiaoceania.org/aogs2021/public.asp?page=program_overview.asp), [pdf](https://weimouzhu.github.io/file/Presenter_Schedule_AOGS_2021.pdf)
 
-- 🥳 **American Geophysical Union(AGU) Fall Meeting 2019** (Poster) [High-resolution Crustal Lg-wave Attenuation Tomography in the Anatolian Plateau and Surrounding Regions](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/504986) 
+- 🥳 **American Geophysical Union (AGU) Fall Meeting 2019** (Poster) [High-resolution Crustal Lg-wave Attenuation Tomography in the Anatolian Plateau and Surrounding Regions](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/504986) 
 
 
 ---
