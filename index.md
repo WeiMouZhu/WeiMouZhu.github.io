@@ -37,7 +37,6 @@ Expect to graduate in early 2025 and seeking for a Postdoc position after that.
 - Volcanic Seismology
 - Machine Learning and Deep Learning Applications in Seismology
 - Subduction and Collision Orogeny Processes
-
 - 🔗
 
 My PhD project includes the **Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, vocanic activities and colossal earthquakes**. Currently my research focuses on *Seismic Attenuation Imaging in the Western Part of North Anatolian Fault Zone*
