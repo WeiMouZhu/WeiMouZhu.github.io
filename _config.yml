@@ -38,8 +38,8 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
+  # - title: Awards
+  #   url: /awards/
   # - title: Teams
   #   url: /teams/
   - title: Hobbies
