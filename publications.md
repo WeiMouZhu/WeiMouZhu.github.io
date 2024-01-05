@@ -16,10 +16,11 @@ Lastest Update: 3th Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://cai
 ## Conference Paper
 
 
+-
 
+-**Asia Oceania Geosciences Society(AOGS) 18th Annual Meeting 2021** (Oral, Virtual) [Crustal Lg-wave Attenuation in the Western Mediterranean Region](https://www.asiaoceania.org/aogs2021/public.asp?page=program_overview.asp), [pdf](https://weimouzhu.github.io/file/Presenter_Schedule_AOGS_2021.pdf)
 
-
--[High-resolution Crustal Lg-wave Attenuation Tomography in the Anatolian Plateau and Surrounding Regions](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/504986) <br>AGU Fall Meeting 2019<br>**Wei-Mou Zhu**, Lian-Feng Zhao, Xiao-Bi Xie and Zhen-Xing Yao
+-**American Geophysical Union(AGU) Fall Meeting 2019** (Poster) [High-resolution Crustal Lg-wave Attenuation Tomography in the Anatolian Plateau and Surrounding Regions](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/504986) 
 
 
 
