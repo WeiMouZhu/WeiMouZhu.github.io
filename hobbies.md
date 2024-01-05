@@ -6,7 +6,7 @@ title: Hobbies
 
 ## 🏀 Basketball
 
-*<br>Basketball assuages my worries, refreshes my body, as well as sport injuries🤕.*
+*Basketball assuages my worries, refreshes my body, as well as sport injuries🤕.*
 
 ### 2023 Basketball Game in the IGGCAS
 <img src="/images/Basketball_IGGCAS.JPG">
@@ -16,7 +16,7 @@ title: Hobbies
 
 ### 2017 College Basketball Team in the CDUT
 <img src="/images/Basketball_CDUT.jpeg">
-
+---
 *<br>I am a big fan of the Luka Dončić, the best player of the Dallas Mavericks, NBA.*
 
 ### 😀 Luka Dončić
