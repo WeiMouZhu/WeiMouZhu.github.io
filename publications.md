@@ -15,8 +15,11 @@ Lastest Update: 3th Jan 2024&nbsp;  [中文版本 (Chinese Version)](https://cai
 
 ## Conference Paper
 
-- [Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model](https://www.researchgate.net/publication/374730865)<br>Junior-year course design<br>**Hanlin Cai**, 
 
+
+
+
+-[High-resolution Crustal Lg-wave Attenuation Tomography in the Anatolian Plateau and Surrounding Regions](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/504986) <br>AGU Fall Meeting 2019<br>**Wei-Mou Zhu**, Lian-Feng Zhao, Xiao-Bi Xie and Zhen-Xing Yao
 
 
 
