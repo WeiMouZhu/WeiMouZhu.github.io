@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /blogs/Begin_Bo/index.html
+permalink: /blogs/BeginBo/index.html
 title: Begin_Bo
 ---
 
 ## 开始博洛尼亚之旅
 
 ### 2023
-<center>
-<img src="/blogs/Bein_Bo.assets/office.jpeg">
-</center>
+<!-- <center>
+<img src="/blogs/BeinBo.assets/office.jpeg">
+</center> -->
 
