@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/BeginBo/index.html
-title: Begin_Bo
+title: BeginBo
 ---
 
 ## 开始博洛尼亚之旅
