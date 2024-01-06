@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/web/index.html
+permalink: /blogs/Begin_Bo/index.html
 title: Begin_Bo
 ---
 
