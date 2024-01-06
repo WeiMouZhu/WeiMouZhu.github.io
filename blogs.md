@@ -11,6 +11,7 @@ title: Blogs
 
 ### 2023
 
-- [开始博洛尼亚之旅](https://weimouzhu.com/blogs/Begin_Bo)<br>
+- [开始博洛尼亚之旅](https://weimouzhu.com/blogs/Begin_Bo)
+
 
 
