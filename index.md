@@ -50,6 +50,7 @@ My PhD project includes the **Multi-scale seismic attenuation imaging of the Ana
   Looking forward to my **First Time** EGU General Assembly in Vienna, Austria! 
   [(Abstract:*Seismic Attenuation Imaging in the Western Part of the North Anatolian Fault Zone*)](https://meetingorganizer.copernicus.org/EGU24/EGU24-3916.html),[PDF](https://weimouzhu.github.io/file/EGU24-3916-print.pdf)
   
+  
 ### 2023
 - **Nov 2023:**  🛫 Beginning of the 1-year visiting in the University of Bologna!
 
