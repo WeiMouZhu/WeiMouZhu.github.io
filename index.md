@@ -1,3 +1,11 @@
+<!--
+ * @Author:  WilmerZhu
+ * @Email: zhuwm@mail.iggcas.ac.cn
+ * @Date: 2024-01-11 13:45:34
+ * @LastEditTime: 2024-01-11 13:47:27
+ * @FilePath: /WeiMouZhu.github.io/index.md
+ * 
+-->
 ---
 layout: page
 ---
@@ -6,7 +14,7 @@ layout: page
 
 <img src="https://weimouzhu.github.io/images/../../../images/WMZ.jpg" class="floatpic" width="300" height="580">
 
-Here is **Weimou Zhu (朱威谋)**.
+Hi😃, here is **Weimou Zhu (朱威谋)**.
 
 I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences [(IGGCAS)](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences [(UCAS)](https://www.ucas.ac.cn/), supervised by [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao). 
 
