@@ -7,7 +7,7 @@ title: Blogs
 ## Chinese Blogs
 
 ### 2024
-
+- [科研哲学-方法论]
 
 ### 2023
 
