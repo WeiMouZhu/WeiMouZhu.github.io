@@ -2,13 +2,16 @@
  * @Author: WMZ 106606358+WeiMouZhu@users.noreply.github.com
  * @Date: 2024-01-11 13:45:34
  * @LastEditors: WMZ 106606358+WeiMouZhu@users.noreply.github.com
- * @LastEditTime: 2024-01-25 14:12:13
+ * @LastEditTime: 2024-01-30 15:26:35
  * @FilePath: /WeiMouZhu.github.io/index.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by wilmer_zhu@163.com, All Rights Reserved. 
 -->
+
 ---
-layout: page
----
+
+## layout: page
 
 # About Me
 
@@ -16,7 +19,7 @@ layout: page
 
 Hi😃, here is **Wei-Mou Zhu (朱威谋)**.
 
-I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences [(IGGCAS)](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences [(UCAS)](https://www.ucas.ac.cn/), supervised by [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao). 
+I am a PhD candidate majoring in **Seismology** at the Institute of Geology and Geophysics Chinese Academy of Sciences [(IGGCAS)](http://english.igg.cas.cn/) and University of Chinese Academy of Sciences [(UCAS)](https://www.ucas.ac.cn/), supervised by [Prof. Lianfeng Zhao](https://www.researchgate.net/profile/Lianfeng-Zhao).
 
 Currently, I have been awarded a scholarship under China Scholarship Council to pursue study as a visiting PhD student in the Department of Physics and Astronomy "Augusto Righi", University of Bologna, supervised by [Prof. Luca De Siena](https://www.unibo.it/sitoweb/luca.desiena2/en).
 
@@ -26,6 +29,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>**Cheers everyone 🎉**
 
 ---
+
 ## Academic Background
 
 🔥 **<font color='red'>[Highlight]</font> I am seeking for a Postdoc position to start in early 2025. Contact me if you have any leads!**
@@ -36,36 +40,35 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 Expect to graduate in early 2025 and seeking for a Postdoc position after that.
 
-
 ---
 
 ## Research Interests
 
-- Seimic Attenuation Imaging
+- Seismic Attenuation Imaging
 - Volcanic Seismology
 - Machine Learning and Deep Learning Applications in Seismology
 - Subduction and Collision Orogeny Processes
 - 🔗
 
-My PhD project includes the **Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, vocanic activities and colossal earthquakes**. Currently my research focuses on *Seismic Attenuation Imaging in the Western Part of North Anatolian Fault Zone*
+My PhD project includes the **Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, volcanic activities and colossal earthquakes**. Currently my research focuses on _Seismic Attenuation Imaging in the Western Part of North Anatolian Fault Zone_
 
 ---
 
 ## News and Updates
 
 ### 2024
-- **Jan 2024:** 🥳 EGU 2024 Abstract Submission! 
-  Looking forward to my **First Time** EGU General Assembly in Vienna, Austria! 
-  [(Abstract:*Seismic Attenuation Imaging in the Western Part of the North Anatolian Fault Zone*)](https://meetingorganizer.copernicus.org/EGU24/EGU24-3916.html),[PDF](https://weimouzhu.github.io/file/EGU24-3916-print.pdf)
-  
-  
-### 2023
-- **Nov 2023:**  🛫 Beginning of the 1-year visiting in the University of Bologna!
 
-- **March & April 2023:** 📰 Reports in Chinese about the research of Lg attenuation of Anatolian Plateau [(IGGCAS website)](https://igg.cas.cn/xwzx/yjcg/202303/t20230329_6720093.html) & [(*SeimicWaves*)
-](https://mp.weixin.qq.com/s/7GpheW4wel2JiFRbS3aX4w)
+- **Jan 2024:** 🥳 EGU 2024 Abstract Submission!
+  Looking forward to my **First Time** EGU General Assembly in Vienna, Austria!
+  [(Abstract:_Seismic Attenuation Imaging in the Western Part of the North Anatolian Fault Zone_)](https://meetingorganizer.copernicus.org/EGU24/EGU24-3916.html),[PDF]()
+
+### 2023
+
+- **Nov 2023:** 🛫 Beginning of the 1-year visiting in the University of Bologna!
+
+- **March & April 2023:** 📰 Reports in Chinese about the research of Lg attenuation of Anatolian Plateau [(IGGCAS website)](https://igg.cas.cn/xwzx/yjcg/202303/t20230329_6720093.html) & [(_SeimicWaves_)](https://mp.weixin.qq.com/s/7GpheW4wel2JiFRbS3aX4w)
 
 - **March 2023:** 📖 First paper published in **Geophysical Research Letters**!
-  [(*High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift*)](https://doi.org/10.1029/2023GL103470)
+  [(_High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift_)](https://doi.org/10.1029/2023GL103470)
 
-- **Jan 2023:** *2022-2023 Merit PhD Student of UCAS*!
+- **Jan 2023:** _2022-2023 Merit PhD Student of UCAS_!
