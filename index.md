@@ -1,13 +1,3 @@
-<!--
- * @Author: WMZ 106606358+WeiMouZhu@users.noreply.github.com
- * @Date: 2024-01-11 13:45:34
- * @LastEditors: WMZ 106606358+WeiMouZhu@users.noreply.github.com
- * @LastEditTime: 2024-01-30 15:26:35
- * @FilePath: /WeiMouZhu.github.io/index.md
- * @Description: 
- * 
- * Copyright (c) 2024 by wilmer_zhu@163.com, All Rights Reserved. 
--->
 
 ---
 
