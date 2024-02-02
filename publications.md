@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 5th Jan 2024&nbsp;  中文版本 (Chinese Version)
+Lastest Update: 5th Jan 2024;  中文版本 (Chinese Version)
 
 ## Journal Paper
 

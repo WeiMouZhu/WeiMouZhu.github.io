@@ -39,7 +39,7 @@ Expect to graduate in early 2025 and seeking for a Postdoc position after that.
 - Subduction and Collision Orogeny Processes
 - 🔗
 
-My PhD project includes the **Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, volcanic activities and colossal earthquakes**. Currently my research focuses on _Seismic Attenuation Imaging in the Western Part of North Anatolian Fault Zone_
+My PhD project includes the **Multi-scale seismic attenuation imaging of the Anatolian Plateau and its implications on the mechanisms of plateau uplift, volcanic activities and colossal earthquakes**. Currently my research focuses on _Seismic Attenuation Imaging in the Western Part of the North Anatolian Fault Zone_
 
 ---
 
@@ -57,7 +57,7 @@ My PhD project includes the **Multi-scale seismic attenuation imaging of the Ana
 
 - **March & April 2023:** 📰 Reports in Chinese about the research of Lg attenuation of Anatolian Plateau [(IGGCAS website)](https://igg.cas.cn/xwzx/yjcg/202303/t20230329_6720093.html) & [(_SeimicWaves_)](https://mp.weixin.qq.com/s/7GpheW4wel2JiFRbS3aX4w)
 
-- **March 2023:** 📖 First paper published in **Geophysical Research Letters**!
+- **March 2023:** 📖 The First paper published in **Geophysical Research Letters**!
   [(_High-resolution broadband Lg attenuation structure of the Anatolian crust and its implications for mantle upwelling and plateau uplift_)](https://doi.org/10.1029/2023GL103470)
 
 - **Jan 2023:** _2022-2023 Merit PhD Student of UCAS_!
